@@ -2,7 +2,7 @@ import React from 'react';
 
 import './homepage.scss'
 
-import DirectoryMenu from '../directory-menu/DirectoryMenu';
+import DirectoryMenu from '../../components/directory-menu/DirectoryMenu';
 
 const HomePage = () => {
   return( 
